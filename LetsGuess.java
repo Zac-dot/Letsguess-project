@@ -1,4 +1,3 @@
-//Name: Xander Thompson
 //Date: 3/11/2020
 //Desc: Final Project - Guess a random number that is generated 
 //Import scanner, random, and file io objects
