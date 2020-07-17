@@ -1,7 +1,8 @@
-Name: Xander Thompson
-Date: 3/11/2020
-File: LetsGuess.java
+Initally this project was made for an introduction CS class that I took roughly a few months back, with this being the
+final project neede to be completed.
+Below is the orginally explination of the code, feel free to change, alter, or do as you want with this code.
 
+Originally Made: 3/11/2020
 
 This program is supposed to be a simple game about guessing numbers.
 You select how many numbers you wish to guess, and then you attempt to figure out what each number is (between 0 and 10).
