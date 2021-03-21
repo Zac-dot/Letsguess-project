@@ -1,0 +1,3 @@
+language = "java10"
+run = "javac LetsGuess.java"
+onBoot="Run 'java LetsGuess' in Shell, else will fail in Console"
