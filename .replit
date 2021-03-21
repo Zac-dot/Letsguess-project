@@ -1,3 +1,2 @@
 language = "java10"
-run = "javac LetsGuess.java"
-onBoot="Run 'java LetsGuess' in Shell, else will fail in Console"
+run = "javac LetsGuess.java | echo 'Run (java LetsGuess) in Shell, else will fail in Console'"
